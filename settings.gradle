@@ -1,0 +1,3 @@
+include ':animatedThemeManager'
+include ':app'
+rootProject.name = "ChangeThemeAnimation"

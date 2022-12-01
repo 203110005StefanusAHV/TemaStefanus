@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stefanus Theme</string>
+    <string name="sample_text">Tema adalah kumpulan atribut yang diterapkan ke seleuruh aplikasi,aktivitas, atau hierrarki tampilan, bukan hanya tampilan individual.</string>
+
+</resources>
